@@ -1,6 +1,6 @@
-# Chip-8 Interpreter
+# CHIP-8 Interpreter
 
-A Chip-8 interpreter written in Python, using pygame to render graphics.
+A CHIP-8 interpreter written in Python, using pygame to render graphics.
 
 # How to Use
 
@@ -16,8 +16,8 @@ and type in the name of your rom.
 
 ## Example
 
-![Example Usage of Chip-8 Interpreter](/media/example.png)
+![Example Usage of CHIP-8 Interpreter](/media/example.png)
 
 ## Example Output
 
-![Example Output of Chip-8 Interpreter](/media/particles.gif)
+![Example Output of CHIP-8 Interpreter](/media/particles.gif)
