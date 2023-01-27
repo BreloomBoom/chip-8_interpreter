@@ -1,6 +1,6 @@
 # CHIP-8 Interpreter
 
-A CHIP-8 interpreter written in Python, using pygame to render graphics.
+A CHIP-8 interpreter written in Python, using Pygame to render graphics.
 
 # How to Use
 
