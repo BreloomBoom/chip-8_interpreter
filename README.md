@@ -6,10 +6,10 @@ A CHIP-8 interpreter written in Python, using Pygame to render graphics.
 
 Note: pygame is a dependency of this program
 
-Place the rom you want to run into the roms folder.
+Place the ROM you want to run into the ```roms``` folder.
 
 With your terminal in the program's directory, run the following command
-```py
+```
 python3 main.py
 ```
 and type in the name of your rom.
