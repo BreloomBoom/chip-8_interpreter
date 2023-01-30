@@ -12,7 +12,7 @@ With your terminal in the program's directory, run the following command
 ```
 python3 main.py
 ```
-and type in the name of your rom.
+and type in the name of your ROM.
 
 ## Example
 
